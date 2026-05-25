@@ -6,3 +6,5 @@ pymupdf
 langchain
 langchain-text-splitters
 torch
+transformers
+huggingface-hub
