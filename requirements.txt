@@ -1,0 +1,9 @@
+streamlit
+sentence-transformers
+qdrant-client
+groq
+PyMuPDF
+langchain-text-splitters
+torch
+transformers
+huggingface-hub
