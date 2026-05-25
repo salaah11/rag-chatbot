@@ -2,9 +2,6 @@ streamlit
 sentence-transformers
 qdrant-client
 groq
-pymupdf
-langchain
+PyMuPDF
 langchain-text-splitters
 torch
-transformers
-huggingface-hub
